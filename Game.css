@@ -42,10 +42,10 @@
 
 @keyframes block {
   0% {
-    left: 760px;
+    left: 100%;
   }
   100% {
-    left: -0px;
+    left: 0%;
   }
 }
 @keyframes jump {
@@ -69,17 +69,21 @@
 @media screen and (max-width:600px)
 {
   .game{
-    width: 600px;
+    width: 100%;
     position: relative;
-    left: auto;
+    left: 0px;
 }
 #block {
-  width: 40px;
+  width: 10%;
   position: absolute;
-  left:560px ;
+  left:90% ;
+}
+#strt{
+  position: absolute;
+  left: 100px;
 }
 #jmp{
   position: absolute;
-  left: 150px;
+  left: 230px;
 }
 }
