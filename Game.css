@@ -7,14 +7,14 @@
   height: 300px;
   border: 2px solid black;
   border-style: ridge;
-  position: absolute;
+  position: relative;
   left: 20%;
-  top: 12%;
+  top: 100px;
 }
 #character {
   width: 30px;
   height: 70px;
-  position: relative;
+  position: absolute;
   top: 230px;
   left: 10px;
   background-color: royalblue;
@@ -23,8 +23,8 @@
   width: 40px;
   height: 40px;
   background-color: salmon;
-  position: relative;
-  top: 190px;
+  position: absolute;
+  top: 260px;
   left: 760px;
 }
 #jmp {
@@ -64,4 +64,22 @@
 }
 .jump {
   animation: jump 500ms infinite;
+}
+
+@media screen and (max-width:600px)
+{
+  .game{
+    width: 600px;
+    position: relative;
+    left: auto;
+}
+#block {
+  width: 40px;
+  position: absolute;
+  left:560px ;
+}
+#jmp{
+  position: absolute;
+  left: 150px;
+}
 }

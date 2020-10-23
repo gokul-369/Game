@@ -24,57 +24,46 @@ var checkdead = setInterval(() => {
     alert("you loose reload the page to start again");
   }
 }, 10);
-// hvcyfug
-// vukgvig
-// jbiughio
-// klnopihjnl
-// hkguiog
-//     ; kljpoj
-// khpoihp
-// nikhpo
-// nklh9
-// niophjp
-// lnjpoj
-// klnopihjnlkhjpouj
-// 'ml;jpo
-// mnopj
-// lkjp[k
-//     oljp0i
-// nikh09u'
-// oljo00'
-// khpoihp
-// nikhpo
-// nklh9
-// niophjp
-// lnjpoj
-// klnopihjnlkhjpouj
-// 'ml;jpo
-// mnopj
-// lkjp[k
-//     oljp0i
-// nikh09u'
-// oljo00'
-// khpoihp
-// nikhpo
-// nklh9
-// niophjp
-// lnjpoj
-// klnopihjnlkhjpouj
-// 'ml;jpo
-// mnopj
-// lkjp[k
-//     oljp0i
-// nikh09u'
-// oljo00'
-// khpoihp
-// nikhpo
-// nklh9
-// niophjp
-// lnjpoj
-// klnopihjnlkhjpouj
-// 'ml;jpo
-// mnopj
-// lkjp[k
-//     oljp0i
-// nikh09u'
-// oljo00'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
